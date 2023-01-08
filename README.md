@@ -1,8 +1,14 @@
-<h1 align="center">Liad Nagi</h1>
+<h1 align="center">Liad Nagi
+<h3 align="center">Game Developer at Spinomenal</h3></h1>
+
+
+
 
 <p align="center"><i>
-<br>
-Third year student in computer science and mathematics
+ 
+B.sc Computer Science and Mathematics graduate from Ariel University.
+
+M.sc student in computer science in Open University
 </i></p>
 
 <h3 align="center"> 
@@ -49,6 +55,6 @@ Third year student in computer science and mathematics
 <a href="https://github.com/LIADN7"> <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="github" width="35" height="35"/></a>
 <a href="https://www.linkedin.com/in/liad-nagi/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="linkedin" width="35" height="35"/></a>
 <a href="https://liadn7.itch.io/"> <img src="https://user-images.githubusercontent.com/7604468/87527283-e4b9eb00-c659-11ea-8281-dc9d8377ce30.png" alt="itch.io" width="35" height="35"/></a>
-
+<a href="https://spinomenal.com/"> <img src="https://pbs.twimg.com/profile_images/1071654833394995200/O1sRcS6O_400x400.jpg" alt="Spinomenal" width="35" height="35"/></a>
 
 </p>
