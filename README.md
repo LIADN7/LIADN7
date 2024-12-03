@@ -35,7 +35,7 @@ B.sc Computer Science and Mathematics graduate from Ariel University.
 <a href="https://neo4j.com/"> <img src="https://iconape.com/wp-content/files/qy/83705/svg/neo4j.svg" alt="neo4j" width="35" height="35"/></a>
 <a href="https://redis.io/"> <img src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" alt="redis" width="35" height="35"/></a>
 <a href="https://www.linux.org/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" alt="linux" width="35" height="35"/></a>
-<a href="https://unity.com/"> <img src="https://onecode.co.il/onecode/wp-content/uploads/2021/11/unity-logo-988A22E703-seeklogo.com_.png" alt="unity" width="35" height="35"/></a>  
+<a href="https://unity.com/"> <img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/unityeditoricon_103179.png" alt="unity" width="35" height="35"/></a>  
 <a href="https://phaser.io/" target="git"> <img src="https://github.com/photonstorm/phaser/blob/v2.6.2/resources/Phaser%20Logo/PNG/Phaser-Logo-Small.png" alt="haser" width="35" height="35"/></a>
 <a href="https://www.docker.com/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="docker" width="35" height="35"/></a>
 <a href="https://developer.android.com/" target="git"> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="android studio" width="35" height="35"/></a>
