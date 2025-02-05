@@ -6,7 +6,7 @@
 
 <p align="center"><i>
 
-M.sc student in computer science in Open University.
+M.sc student in Computer Science in Open University.
 
 B.sc Computer Science and Mathematics graduate from Ariel University.
 
