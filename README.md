@@ -1,63 +1,46 @@
-<h1 align="center">Liad Nagi
-<h3 align="center">Game Developer at Spinomenal</h3></h1>
+<h1 align="center">Liad Nagi</h1>
+<h3 align="center">Software Developer & Game Enthusiast</h3>
 
-
-
-
-<p align="center"><i>
-
-M.sc student in Computer Science in Open University.
-
-B.sc Computer Science and Mathematics graduate from Ariel University.
-
-</i></p>
-
-<h3 align="center"> 
-
-
-[![Github](https://img.shields.io/github/followers/LIADN7?label=Followers&style=social)](https://github.com/LIADN7)
-
-</h3>
-
-
-<h4 align="left">Languages, Databases and Tools:</h4>
 <p align="center">
-<a href="https://www.java.com" target="Java"> <img src="https://github.com/get-icon/geticon/blob/master/icons/java.svg" alt="java" width="35" height="35"/></a>
-<a href="https://www.python.org" target="Python"> <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="python" width="35" height="35"/></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"> <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="C" width="35" height="35"/></a>
-<a href="https://www.cplusplus.com/" title="C++"> <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="C++" width="35" height="35"/>  </a>
-<a href="https://www.c-sharpcorner.com/" title="C#"> <img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="C#" width="35" height="35"/>  </a>
-<a href="https://developer.mozilla.org/he/docs/Web/JavaScript"> <img src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="javascript" width="35" height="35"/></a>
-<a href="https://developer.mozilla.org/he/docs/Web/HTML"> <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="html-5" width="35" height="35"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://github.com/get-icon/geticon/blob/master/icons/css-3.svg" alt="css-3" width="35" height="35"/></a>
-<a href="https://www.mongodb.com/"> <img src="https://img.icons8.com/color/50/000000/mongodb.png" alt="mongodb" width="35" height="35"/></a>
-<a href="https://www.mysql.com/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="mysql" width="35" height="35"/></a>
-<a href="https://neo4j.com/"> <img src="https://iconape.com/wp-content/files/qy/83705/svg/neo4j.svg" alt="neo4j" width="35" height="35"/></a>
-<a href="https://redis.io/"> <img src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png" alt="redis" width="35" height="35"/></a>
-<a href="https://www.linux.org/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/linux-tux.svg" alt="linux" width="35" height="35"/></a>
-<a href="https://unity.com/"> <img src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" alt="unity" width="35" height="35"/></a>  
-<a href="https://phaser.io/" target="git"> <img src="https://github.com/photonstorm/phaser/blob/v2.6.2/resources/Phaser%20Logo/PNG/Phaser-Logo-Small.png" alt="haser" width="35" height="35"/></a>
-<a href="https://www.docker.com/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/docker-icon.svg" alt="docker" width="35" height="35"/></a>
-<a href="https://developer.android.com/" target="git"> <img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="android studio" width="35" height="35"/></a>
-
-
-
+  <i>M.Sc student in Computer Science at Open University</i><br>
+  <i>B.Sc Computer Science and Mathematics graduate from Ariel University</i>
 </p>
 
-<h4 align="left">IDE's, Code Editors and Programs:</h4>
 <p align="center">
-<a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/get-icon/geticon/blob/master/icons/intellij-idea.svg" alt="Intellij IDEA" width="35" height="35"/></a>  
-<a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/get-icon/geticon/blob/master/icons/pycharm.svg" alt="PyCharm" width="35" height="35"/></a>
-<a href="https://www.eclipse.org/" title="eclipse"> <img src="https://github.com/get-icon/geticon/blob/master/icons/eclipse.svg" alt="eclipse" width="35" height="35"/></a> 
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="35" height="35"/></a>  
-<a href="https://code.visualstudio.com/" title="Visual Studio"> <img src="https://github.com/get-icon/geticon/blob/master/icons/visual-studio.svg" alt="Visual Studio" width="35" height="35"/></a>  
+  <a href="https://github.com/LIADN7"><img src="https://img.shields.io/github/followers/LIADN7?label=Followers&style=social" alt="Github"></a>
 </p>
 
-<h4 align="left">Links:</h4>
-<p align="center">
-<a href="https://github.com/LIADN7"> <img src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="github" width="35" height="35"/></a>
-<a href="https://www.linkedin.com/in/liad-nagi/"> <img src="https://github.com/get-icon/geticon/blob/master/icons/linkedin-icon.svg" alt="linkedin" width="35" height="35"/></a>
-<a href="https://liadn7.itch.io/"> <img src="https://user-images.githubusercontent.com/7604468/87527283-e4b9eb00-c659-11ea-8281-dc9d8377ce30.png" alt="itch.io" width="35" height="35"/></a>
-<a href="https://spinomenal.com/"> <img src="https://pbs.twimg.com/profile_images/1071654833394995200/O1sRcS6O_400x400.jpg" alt="Spinomenal" width="35" height="35"/></a>
+---
 
+### 🚀 About Me
+I’m a software developer with a passion for game development and "outside the box" algorithmic challenges. Whether I'm architecting a new game mechanic in **Unity**, optimizing complex logic, or expanding my tech stack, I thrive on continuous learning.
+
+When I'm not coding, you'll probably find me strategizing over a **board game** with friends, or hitting the gym. I believe that great code, like a great game, requires the perfect balance of logic and creativity.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LIADN7&show_icons=true&theme=tokyonight&count_private=true" alt="Liad's Stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIADN7&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
+
+---
+
+### 🛠 Languages, Databases and Tools
+<p align="center">
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="38" height="38"/></a> <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/></a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="38" height="38"/></a> <a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="38" height="38"/></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="38" height="38"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/></a> <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="38" height="38"/></a> <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="38" height="38"/></a> <a href="https://neo4j.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="neo4j" width="38" height="38"/></a> <a href="https://redis.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="38" height="38"/></a> <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="38" height="38"/></a> <a href="https://unity.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="38" height="38"/></a> <a href="https://phaser.io/"><img src="https://phaser.io/favicon.ico" alt="phaser" width="38" height="38"/></a> <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="38" height="38"/></a>
+</p>
+
+### 💻 IDEs & SDKs
+<p align="center">
+<a href="https://cursor.sh"><img src="https://cursor.com/favicon.ico" alt="Cursor" width="38" height="38"/></a> <a href="https://antigravity.google/"><img src="https://antigravity.google/favicon.ico" alt="Antigravity/MoonActive" width="38" height="38"/></a> <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="38" height="38"/></a> <a href="https://visualstudio.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" width="38" height="38"/></a>
+</p>
+
+---
+
+### 🔗 Connect with me
+<p align="center">
+<a href="https://github.com/LIADN7"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> <a href="https://www.linkedin.com/in/liad-nagi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> <a href="https://liadn7.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.dot.io&logoColor=white" alt="itch.io"/></a> <a href="https://liad-nagi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
 </p>
