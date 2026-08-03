@@ -19,15 +19,6 @@ When I'm not coding, you'll probably find me strategizing over a **board game** 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LIADN7&show_icons=true&theme=tokyonight&count_private=true" alt="Liad's Stats" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIADN7&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</p>
-
----
-
 ### 🛠 Languages, Databases and Tools
 <p align="center">
   <table>
